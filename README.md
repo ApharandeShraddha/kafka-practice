@@ -1,5 +1,8 @@
 # kafka-practice
 
+Project overview - 
+Implememtation of Kafka producer which is taking data from Twitter i.e tweets  in real time and insert them into Kafka topic. Implememtation of kafka consumer which takes data from Kafka and puts it into Elasticsearch.
+
 start zookeeper
 bin/zookeeper-server-start.sh config/zookeeper.properties
 
